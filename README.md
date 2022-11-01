@@ -19,7 +19,7 @@
     </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
     <a href = "mailto: rodrigo_bergenthal@live.com">
       <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/gmail.svg">
     </a>
