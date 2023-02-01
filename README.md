@@ -23,6 +23,8 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) acesse
     &nbsp;
   <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    &nbsp;
+   <img alt="React-logo" src="https://img.shields.io/badge/React-Native-4040bf?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp;
   <br/>
