@@ -39,6 +39,10 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) acesse
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
    </a>
 </div>
+   <br/>
+<div align='center'>
+<a height="150em" href="http://www.github.com/RodrigoBergenthal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoBergenthal&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
 
   
 ![Snake animation](https://github.com/RodrigoBergenthal/RodrigoBergenthal/blob/output/github-contribution-grid-snake.svg)
