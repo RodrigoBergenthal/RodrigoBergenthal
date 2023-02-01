@@ -1,5 +1,5 @@
 ## Olá Pessoal 
-Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/)
+Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) acesse
 
 🪖Sou ex- Sargento do Exército, disciplinado e treinado para liderar equipes.
 
