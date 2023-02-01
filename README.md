@@ -1,5 +1,12 @@
 ## Olá Pessoal 
 Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) acesse
+<div align="center">
+  <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=RodrigoBergenthal&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
+
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoBergenthal&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="kimjayden" />
+ 
+<div/>
 
 🪖Sou ex- Sargento do Exército, disciplinado e treinado para liderar equipes.
 
