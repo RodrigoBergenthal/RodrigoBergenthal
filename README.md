@@ -10,8 +10,6 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) acesse
 <br/>
  <br/>
   🪖Sou ex- Sargento do Exército, disciplinado e treinado para liderar equipes.
-  ![WorkGIF](https://user-images.githubusercontent.com/116042656/216794693-c6ddddb5-58c2-4107-97b4-f5f759f6a4ad.gif)
-
 
 ✔️Minhas Experiencias atuais na área Civil são de Liderar Equipes de Alpinistas e profissionais de Resgate em altura e prestar consultoria para empresas do ramo.
 
