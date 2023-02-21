@@ -1,4 +1,5 @@
 ## Olá Pessoal 
+
 Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/);Acesse lá;
 
 <div align="center">
@@ -45,8 +46,9 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/);Acesse lá;
 </div>
    <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoBergenthal)](https://git.io/streak-stats)
-  
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoBergenthal)](https://git.io/streak-stats)
+
 
   
 ![Snake animation](https://github.com/RodrigoBergenthal/RodrigoBergenthal/blob/output/github-contribution-grid-snake.svg)
