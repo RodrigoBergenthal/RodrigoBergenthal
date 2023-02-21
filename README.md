@@ -45,7 +45,7 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/);Acesse lá;
 </div>
    <br/>
 <div align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rodrigobergenthal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoBergenthal)](https://git.io/streak-stats)
   
 </div>
   
