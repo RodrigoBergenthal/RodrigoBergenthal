@@ -1,6 +1,6 @@
 ## Olá Pessoal 
 
-Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/)::
+Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/)
 :
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=RodrigoBergenthal&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="150">  &emsp;&emsp;&emsp;
