@@ -48,7 +48,7 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) cursando EBAC
    <br/>
 
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoBergenthal&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoBergenthal&theme=javascript&locale=pt_BR)](https://git.io/streak-stats)
 
 
   
