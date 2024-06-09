@@ -1,6 +1,6 @@
 ## Olá Pessoal 
 
-Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) cursando EBAC
+Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) cursando 
 :
 #
 <div align="center">
