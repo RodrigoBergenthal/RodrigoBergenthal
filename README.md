@@ -1,6 +1,6 @@
 ## Olá Pessoal 
 
-Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/) cursando 
+Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/)
 :
 #
 <div align="center">
