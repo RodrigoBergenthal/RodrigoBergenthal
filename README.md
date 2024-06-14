@@ -10,11 +10,12 @@ Meu LinkedIn: (https://www.linkedin.com/in/rodrigobergenthal/)
 <div/>
 <br/>
  <br/>
-  🪖Sou ex- Sargento do Exército, disciplinado e treinado para liderar equipes.
+ 	Desenvolvedor Fullstack Python em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Profissional com perfil de liderança, habilidades de resolução de problemas e forte capacidade de adaptabilidade. Possuo experiências como Gerente de E-commerce implementando melhorias de performance e SEO e de desenvolvimento FrontEnd. Comprometido com o aprendizado contínuo e autodidata, valorizo o respeito e a colaboração no ambiente de trabalho.
 
-✔️Minhas Experiencias atuais na área Civil são de Liderar Equipes de Alpinistas e profissionais de Resgate em altura e prestar consultoria para empresas do ramo.
+Habilidades:	HTML5, CSS, JavaScript, React,Query,Bootstrap,Gulp, VueJS, Cypress, Trabalho em equipes ágeis, SASS, Grunt e Git;
+Conhecimentos  em: TypeScript e Python;
+Noções de React Native, Django, REST API, Docker.
 
-✔️Tenho muita familiaridade com tecnologia pois nunca deixei de estudar sobre o assunto e me inteirar das novidades, Resolvedor de problemas e programar é deixar a minha criatividade fluir e se materializar em apps, sites e demais ideias que sempre tenho! Sou muito sociável e sempre faço amizade fácil, pois tenho mente aberta sobre todas as nossas diferenças e respeito acima de tudo pelo próximo. eu me considero muito criativo!
  <br/>
   <h3>Technologies :</h3>
 <div>
