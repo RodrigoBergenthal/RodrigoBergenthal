@@ -1,5 +1,5 @@
 ## Olá Pessoal 
-
+trabalhando em um projeto para um teste de vaga. 
 LinkedIn: https://www.linkedin.com/in/rodrigobergenthal/ cursando EBAC full stack
 #
 <div align="center">
