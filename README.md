@@ -1,6 +1,6 @@
 ## Olá Pessoal 
 LinkedIn: https://www.linkedin.com/in/rodrigobergenthal/ 
-#
+#12
 <div align="center">
   <img alt="Info-Github" src="https://github-readme-stats.vercel.app/api?username=RodrigoBergenthal&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60%22%20height=%22150%22">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoBergenthal&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="kimjayden" />
