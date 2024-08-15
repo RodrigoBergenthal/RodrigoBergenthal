@@ -1,4 +1,4 @@
-## Olá Pessoal 
+## Olá Pessoal segue meu linkedin
 LinkedIn: https://www.linkedin.com/in/rodrigobergenthal/ 
 avançando em phyton e React
 <div align="center">
