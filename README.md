@@ -7,7 +7,7 @@ segue meu LinkedIn: https://www.linkedin.com/in/rodrigobergenthal/
 <div/>
 <br/>
  <br/>
- 	Desenvolvedor Fullstack Python em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. 
+ 	Desenvolvedor Fullstack Python.
   Profissional com perfil de liderança, habilidades de resolução de problemas e forte capacidade de adaptabilidade. 
   Possuo experiências como Gerente de E-commerce implementando melhorias de performance e SEO e de desenvolvimento FrontEnd. Comprometido com o aprendizado contínuo e autodidata, valorizo o respeito e a colaboração no ambiente de trabalho.
 
