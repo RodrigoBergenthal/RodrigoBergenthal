@@ -7,9 +7,7 @@ segue meu LinkedIn: https://www.linkedin.com/in/rodrigobergenthal/
 <div/>
 <br/>
  <br/>
- 	Desenvolvedor Fullstack Python.
-  Profissional com perfil de liderança, habilidades de resolução de problemas e forte capacidade de adaptabilidade. 
-  Possuo experiências como Gerente de E-commerce implementando melhorias de performance e SEO e de desenvolvimento FrontEnd. Comprometido com o aprendizado contínuo e autodidata, valorizo o respeito e a colaboração no ambiente de trabalho.
+ Sou Educador Social e Professor de Desenvolvimento Full Stack na Rede Marista Cesmar, onde integro minha paixão por tecnologia com o compromisso de inclusão social e desenvolvimento de habilidades técnicas em jovens e adultos.
 
 <h3>Habilidades:</h3>	HTML5, CSS, JavaScript, React,Query,Bootstrap,Gulp, VueJS, Cypress, Trabalho em equipes ágeis, SASS, Grunt e Git;
 Conhecimentos  em: TypeScript e Python;
