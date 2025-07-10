@@ -15,7 +15,6 @@ Noções de React Native, Django, REST API, Docker.
 
  
 </div>
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
