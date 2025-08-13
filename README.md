@@ -6,7 +6,7 @@
 <div/>
 <br/>
  <br/>
- Sou Educador Social e Professor de Desenvolvimento Full Stack na Rede Marista Cesmar, onde integro minha paixão por tecnologia com o compromisso de inclusão social e desenvolvimento de habilidades técnicas em jovens e adultos.
+ Sou Rodrigo Bergenthal, desenvolvedor Full Stack e Educador Social, apaixonado por unir tecnologia, inovação e impacto social. Tenho uma trajetória diversa que vai desde experiência em tecnologia pública, passando por liderança e disciplina no Exército Brasileiro, até o desenvolvimento de soluções digitais para empresas e a formação de jovens em programação.
 
 <h3>Habilidades:</h3>	HTML5, CSS, JavaScript, React,Query,Bootstrap,Gulp, VueJS, Cypress, Trabalho em equipes ágeis, SASS, Grunt e Git;
 Conhecimentos  em: TypeScript e Python;
